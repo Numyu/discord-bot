@@ -1,8 +1,5 @@
--- Bot Discord Groupe 2 --
+<h1 align="center">Hello Food</h1>
 
-Membre :
-- Billy IEA
-- Léa MHOUMADI
-- Dylan LANGEVIN
-- Louis ROCCA
-- Lancelot BOYER
+<div align="center">
+   Réalisation d'un bot discord
+</div>
